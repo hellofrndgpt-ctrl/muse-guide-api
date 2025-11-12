@@ -1,0 +1,7 @@
+project_id = "lmqhfycbznelqfwxbnou"
+
+[functions.get-recommendations]
+verify_jwt = false
+
+[functions.explain-recommendation]
+verify_jwt = false
